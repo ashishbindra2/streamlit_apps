@@ -1,0 +1,16 @@
+date,type_of_tea,city,cup_sold,revenue
+2025-07-01,Green Tea,New York,120,240
+2025-07-01,Black Tea,Los Angeles,95,190
+2025-07-01,Herbal Tea,Chicago,75,150
+2025-07-02,Oolong Tea,Houston,60,180
+2025-07-02,Masala Chai,San Francisco,130,260
+2025-07-02,Green Tea,Seattle,85,170
+2025-07-03,Black Tea,Miami,100,200
+2025-07-03,Herbal Tea,Dallas,70,140
+2025-07-03,Oolong Tea,Atlanta,50,150
+2025-07-04,Masala Chai,Denver,110,220
+2025-07-04,Green Tea,Boston,90,180
+2025-07-04,Black Tea,Phoenix,80,160
+2025-07-05,Herbal Tea,Las Vegas,65,130
+2025-07-05,Oolong Tea,Portland,55,165
+2025-07-05,Masala Chai,San Diego,125,250
